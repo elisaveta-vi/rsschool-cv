@@ -23,6 +23,7 @@ I am a designer of several newspapers in our town. I love to study and learn new
 * Git, GitHub
 * VS Code
 * Adobe Photoshop, InDesign
+* Figma
 *********
 
 ### Code example:
